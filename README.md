@@ -1,2 +1,2 @@
-# SistemasOperativos-UCSC
-This repository (in spanish language) contains study material, codes, and exercises solved by me in the Operating Systems course taught at UCSC in the 2024-1 semester.
+# Sistemas Operativos - UCSC
+Este repositorio contiene material de estudio, códigos y ejercicios resueltos por mí en el curso de Sistemas Operativos (IN1077C) impartido en la UCSC (específicamente en el semestre 2024-1).
